@@ -97,7 +97,7 @@ At the same time, a series of tutorials including videos and documents are provi
 
 go 1.17 
 
-nodejs: v14.16.0
+nodejs: v18+
 
 npm: 6.14.11
 
